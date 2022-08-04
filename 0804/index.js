@@ -13,3 +13,14 @@ arr.forEach(console.log);
  * \v : 탭 수직
  *
  */
+
+/**
+ * 표현식 삽입
+ */
+
+let first = "yoon";
+let last = "sejong";
+
+console.log("My name is " + first + last);
+
+console.log(`My name ${first} ${last}`);
