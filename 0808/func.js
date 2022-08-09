@@ -14,3 +14,4 @@ let add = new Function('x', 'y', 'return x+y');
 
 //화살표 함수
 let add = (x, y) => x + y;
+
