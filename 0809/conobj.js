@@ -10,4 +10,6 @@ person.name = 'yoon';
 
 console.log(person);
 
-// const 키워드는 재할당을 금지할 뿐 "불변"을 의미하지는 않는다. 
+// const 키워드는 재할당을 금지할 뿐 "불변"을 의미하지는 않는다.
+
+
