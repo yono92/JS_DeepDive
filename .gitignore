@@ -1,0 +1,14 @@
+# ingnore intellij project files
+*.iml
+.idea/
+*.ipr
+*.iwsㅣ
+
+# ingnore node modules files
+node_modules/
+package-lock.json
+!bin/*
+
+# package
+.pm2/
+logs/
