@@ -1,16 +1,15 @@
 {
-  "name": "0811",
+  "name": "0812",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "ysj",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "crypto": "^1.0.1"
-  },
-  "devDependencies": {},
-  "description": ""
+    "cheerio": "^1.0.0-rc.12"
+  }
 }
