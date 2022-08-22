@@ -13,4 +13,3 @@ function showReturnValue(callback) {
 
 showReturnValue(obj.getName);
 
-
