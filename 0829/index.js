@@ -5,3 +5,5 @@ exports.hello = () => {
 module.exports = () => {
     console.log("Hello");
 };
+
+console.log("asdasd")
